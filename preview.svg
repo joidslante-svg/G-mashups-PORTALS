@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+    <rect width="1200" height="675" fill="#152116"/>
+    <rect x="70" y="70" width="260" height="535" rx="18" fill="#0d160f"/>
+    <rect x="370" y="70" width="760" height="535" rx="18" fill="#203322"/>
+    <text x="420" y="170" fill="#fadbe8" font-family="Arial" font-size="62" font-weight="700">G-mashups - PORTALS</text>
+    <text x="420" y="230" fill="#e9b9cb" font-family="Arial" font-size="30">moss green with light pink text</text>
+    <circle cx="195" cy="165" r="54" fill="#a8c686"/>
+    <rect x="420" y="310" width="170" height="170" rx="14" fill="#2b4330"/>
+    <rect x="630" y="310" width="170" height="170" rx="14" fill="#314d36"/>
+    <rect x="840" y="310" width="170" height="170" rx="14" fill="#6e8f66"/>
+    <rect x="420" y="515" width="500" height="24" rx="12" fill="#fadbe8"/>
+</svg>
