@@ -1,0 +1,15 @@
+{
+    "name": "G-mashups - PORTALS",
+    "description": "A mossy green Spicetify theme with light pink text, soft botanical contrast, and a muted forest UI.",
+    "preview": "preview.svg",
+    "readme": "README.md",
+    "usercss": "PORTALS/user.css",
+    "schemes": "PORTALS/color.ini",
+    "authors": [
+          {
+                  "name": "joidslante-svg",
+                  "url": "https://github.com/joidslante-svg"
+          }
+    ],
+    "tags": ["moss", "green", "pink", "dark", "botanical"]
+}
